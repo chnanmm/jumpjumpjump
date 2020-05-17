@@ -1,0 +1,13 @@
+main.c:73:6:resetPos	4	static
+main.c:110:6:clear	16	static
+main.c:114:6:HAL_UART_TxCpltCallback	16	static
+main.c:117:6:HAL_UART_RxCpltCallback	16	static
+main.c:175:7:rock	40	static
+main.c:148:5:main	32	static
+main.c:207:7:startScene	24	static
+main.c:238:7:gameOver	32	static
+main.c:285:7:screen	32	static
+main.c:373:6:SystemClock_Config	88	static
+main.c:414:13:MX_USART2_UART_Init	8	static
+main.c:445:13:MX_GPIO_Init	48	static
+main.c:480:6:Error_Handler	4	static
